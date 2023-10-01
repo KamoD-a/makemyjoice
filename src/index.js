@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
+import ChoiceField from './ChoiceField';
+import Button from './Button.js'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
